@@ -1,0 +1,7 @@
+C:\Users\Josh\Documents\GitHub\Count-Words\Count Words\Count Words\bin\Debug\Count Words.exe.config
+C:\Users\Josh\Documents\GitHub\Count-Words\Count Words\bin\Debug\Count Words.exe.config
+C:\Users\Josh\Documents\GitHub\Count-Words\Count Words\bin\Debug\Count Words.exe
+C:\Users\Josh\Documents\GitHub\Count-Words\Count Words\bin\Debug\Count Words.pdb
+C:\Users\Josh\Documents\GitHub\Count-Words\Count Words\obj\Debug\Count Words.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Documents\GitHub\Count-Words\Count Words\obj\Debug\Count Words.exe
+C:\Users\Josh\Documents\GitHub\Count-Words\Count Words\obj\Debug\Count Words.pdb
